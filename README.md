@@ -4,7 +4,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=adminph-de&show_icons=true&theme=merko)
 
-<a href="https://img.shields.io/opencollective/sponsors/paypal?style=for-the-badge"><img alt="Donate via PayPal!" src="https://img.shields.io/opencollective/sponsors/paypal?style=for-the-badge">
+<a href="hhttps://www.paypal.com/donate?hosted_button_id=N6M643UU282Z2"><img alt="Donate via PayPal!" src="https://img.shields.io/opencollective/sponsors/paypal?style=for-the-badge">
 
 <!--
 
