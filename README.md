@@ -1,3 +1,9 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=adminph-de&show_icons=true&theme=merko)
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RMLTQ76JSXJ4Q"><img src="https://img.shields.io/badge/sponsor-jarun-1eb0fc.svg" alt="Donate via PayPal!" /></a>
+
+<!--
+
 ### Hi there 👋
 
 <!--
